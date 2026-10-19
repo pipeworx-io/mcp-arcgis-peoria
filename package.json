@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-peoria",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "City of Peoria GIS — Peoria, Arizona open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-39bf88d284432cc01174a888842a4754c85ef62215df44bb267599ec7de18e93",
-    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
+    "sourceHash": "v1-cb1b41b115e92731dfc92d91114fed9ab7ccbfd35b57647477e5b33f04a5d78f",
+    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
   }
 }
